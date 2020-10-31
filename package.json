@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "prettier": "prettier --write 'book-to-life/client/src/**/*.{js,jsx,json,scss,css}'",
+    "prettier:check": "prettier --check 'book-to-life/client/src/**/*.{js,jsx,json,scss,css}'"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}

@@ -1,0 +1,19 @@
+# File System
+.DS_Store
+
+# Editor
+.vscode/
+
+# Python
+.venv/
+__pycache__/
+dist/
+*.py[cod]
+*$py.class
+*.egg-info
+*.whl
+build/
+.cache/
+
+# JavaScript
+node_modules/

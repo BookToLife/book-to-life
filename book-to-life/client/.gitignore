@@ -1,0 +1,16 @@
+# File System
+.DS_Store
+
+# Editor
+.vscode/
+
+# JavaScript
+/node_modules
+
+# Production
+/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
