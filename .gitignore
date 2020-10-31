@@ -16,4 +16,4 @@ build/
 .cache/
 
 # JavaScript
-node_modules/git
+node_modules/
